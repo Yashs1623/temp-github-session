@@ -1,1 +1,1 @@
-Teaching git
+Teaching git and github
